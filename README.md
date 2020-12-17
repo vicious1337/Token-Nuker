@@ -1,4 +1,4 @@
-# Token-Nuke
+# Token-Nuker
 If you are having issues running the token nuker then use run it in repl.it 
 https://repl.it/@vicious1337/Vicious-Token-Nuker
 
